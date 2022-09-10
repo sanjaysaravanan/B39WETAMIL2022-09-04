@@ -55,7 +55,7 @@ Topics:
 
     image
 
-    block tags/elements:
+    block tags/elements: always come sinnext line
       occupies the enitire horizontal width/space
         Examples: div, p, heading
     
